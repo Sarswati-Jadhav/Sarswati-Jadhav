@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:0066FF&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Welcome Banner"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=00eaff" />
 
-<h1 align="center">👋 Hi, I'm Sarswati Jadhav</h1>
+<h1 align="center">👋 Hi, I'm Saraswati Jadhav</h1>
+
 <h3 align="center">🚀 Future Data Scientist | 📊 Data Analysis & Visualization | 🤖 AI & ML Explorer</h3>
 
 <p align="center">
@@ -18,6 +17,8 @@
 - 💡 Passionate about AI, Data Analysis, Machine Learning, and Automation
 - 🧠 Skilled in Python, Machine Learning, Figma, Power BI, Excel, Android Studio
 - 💻 Exploring Machine Learning & Data Analysis
+- 🌱 Currently learning Advanced ML 
+- 📬 Email:sarswatijadhavsj04@gmail.com
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
