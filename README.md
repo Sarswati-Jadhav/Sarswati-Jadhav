@@ -47,8 +47,6 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 
 ## 🛠️ Languages & Tools
 
-## 🧰 Languages & Tools
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github" />
 </p>
@@ -58,11 +56,7 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 </p>
 
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg"/>
-<img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg"/>
-</picture>
+---
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%"/>
