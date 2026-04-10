@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=00FFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,50:ff4b2b,100:ff416c&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=ffffff" />
 
 <h1 align="center">👋 Hi, I'm Saraswati Jadhav</h1>
 <h3 align="center">
@@ -56,8 +56,9 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 </p>
 
 
----
+<p align="center">
+✨ <i>“Learn. Apply. Improve. Repeat”</i> ✨
+</p>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%"/>
-</div>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
