@@ -5,7 +5,13 @@
 Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 </h3>
 
-<h3 align="center">🚀 Future Data Scientist | 📊 Data Analysis & Visualization | 🤖 AI & ML Explorer</h3>
+<p align="center">
+🚀 Future Data Scientist &nbsp; | &nbsp; 📈 Turning Raw Data into Smart Decisions &nbsp; | &nbsp;🤖 AI & ML Explorer
+
+✨ Option 5
+</p>
+
+
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=Sarswati-Jadhav">
