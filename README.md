@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE5D0,50:FFD1A1,100:FFE5D0&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=8B4000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE5D0,50:FFD1A1,100:FFE5D0&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=8B4000" /> />
 
 <h1 align="center">👋 Hi, I'm Saraswati Jadhav</h1>
 <h3 align="center">
