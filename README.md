@@ -48,11 +48,11 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github" />
+<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github,vscode" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,scipy" />
 </p>
 
 <p align="center">
