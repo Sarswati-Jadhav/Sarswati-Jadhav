@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=00eaff" />
 
 <h1 align="center">👋 Hi, I'm Saraswati Jadhav</h1>
+<h3 align="center">
+Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
+</h3>
 
 <h3 align="center">🚀 Future Data Scientist | 📊 Data Analysis & Visualization | 🤖 AI & ML Explorer</h3>
 
