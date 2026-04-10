@@ -47,33 +47,16 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
-</p>
+## 🧰 Languages & Tools
 
-### Frontend
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48"/>
-</p>
-
-### Tools
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Sarswati-Jadhav">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sarswati-Jadhav&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages"/>
-</a>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,powerbi,excel" />
 </p>
+
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg"/>
