@@ -48,7 +48,7 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -56,10 +56,10 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
-
 
 <p align="center">
 ✨ <i>“Explore. Learn. Grow. Repeat.”</i> ✨
