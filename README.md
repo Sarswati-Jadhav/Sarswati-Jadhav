@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Saraswati%20Jadhav&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20and%20ML&descSize=18&descAlignY=55&textBg=false"/>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=GIVE%20YOUR%20BEST!!!!" alt="Typing introduction"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:0066FF&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Welcome Banner"/>
 </p>
+
+<h1 align="center">👋 Hi, I'm Sarswati Jadhav</h1>
+<h3 align="center">🚀 Future Data Scientist | 📊 Data Analysis & Visualization | 🤖 AI & ML Explorer</h3>
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=Sarswati-Jadhav">
