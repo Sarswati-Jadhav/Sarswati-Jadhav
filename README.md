@@ -52,12 +52,17 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,powerbi,excel" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 
 <p align="center">
-✨ <i>“Learn. Apply. Improve. Repeat”</i> ✨
+✨ <i>“Explore. Learn. Grow. Repeat.”</i> ✨
 </p>
 
 <!-- FOOTER -->
