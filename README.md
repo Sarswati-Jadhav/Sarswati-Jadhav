@@ -24,7 +24,7 @@ Third Year B.Tech Data Science Student | ML Enthusiast | Python Developer
 ## 📌 About Me
 - 🎓 B.Tech in Data Science – Dr. D. Y. Patil Pratishthan's College of Engineering, Kolhapur
 - 💡 Passionate about AI, Data Analysis, Machine Learning, and Automation
-- 🧠 Skilled in Python, Machine Learning, Figma, Power BI, Excel, Android Studio
+- 🧠 Skilled in Python, Machine Learning, UI/UX design, Power BI, Excel, Android Studio
 - 💻 Exploring Machine Learning & Data Analysis
 - 🌱 Currently learning Advanced ML 
 - 📬 Email:sarswatijadhavsj04@gmail.com
